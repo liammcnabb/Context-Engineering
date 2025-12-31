@@ -1,0 +1,38 @@
+{
+  "name": "context-engineering-template",
+  "version": "1.0.0",
+  "description": "A beginner-friendly template for context engineering with AI systems",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node examples/quickstart.ts",
+    "demo:basic": "ts-node examples/basic-workflow.ts",
+    "demo:advanced": "ts-node examples/advanced-workflow.ts",
+    "demo:quickstart": "ts-node examples/quickstart.ts",
+    "clean": "rm -rf dist",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "context-engineering",
+    "ai",
+    "prompt-engineering",
+    "tool-calling",
+    "feedback-loops",
+    "optimization"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-repo-url"
+  }
+}
