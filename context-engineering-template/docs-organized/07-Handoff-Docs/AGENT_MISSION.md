@@ -50,7 +50,7 @@ Understand:
 
 ### 2. Verify Everything Works (5 min)
 ```bash
-cd "c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template"
+cd "path/to/context-engineering-template"
 
 # TypeScript
 npm start
@@ -387,13 +387,13 @@ go test                         # Run tests
 
 **Location**:
 ```
-c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\
+path/to/context-engineering-template\
 ```
 
 **Terminal Commands**:
 ```bash
 # Navigate to project
-cd "c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template"
+cd "path/to/context-engineering-template"
 
 # Check what's there
 ls -la

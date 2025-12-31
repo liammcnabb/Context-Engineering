@@ -369,5 +369,5 @@ Build It (4+ hours):
 ═════════════════════════════════════════════════════════════════════════════
 
 Last Updated: December 30, 2025
-Location: c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\
+Location: path/to/context-engineering-template\
 Status: ✅ Complete and ready to use

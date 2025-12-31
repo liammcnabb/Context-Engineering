@@ -51,7 +51,7 @@
 
 ```bash
 # Navigate to project
-cd "c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template"
+cd "path/to/context-engineering-template"
 
 # View documentation hub
 cat docs-organized/README.md

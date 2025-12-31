@@ -8,7 +8,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📍 LOCATION
-   c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\
+   path/to/context-engineering-template\
 
 📊 WHAT WAS CREATED
    ✅ 1 complete folder structure (13 directories)
@@ -100,7 +100,7 @@ context-engineering-template/
 🚀 QUICK START (5 MINUTES)
 
 Step 1: Navigate to folder
-   cd "c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template"
+   cd "path/to/context-engineering-template"
 
 Step 2: Install dependencies
    npm install
@@ -392,5 +392,5 @@ Your responsibility:
 ╚════════════════════════════════════════════════════════════════════════════════╝
 
 Setup Date: December 30, 2025
-Location: c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\
+Location: path/to/context-engineering-template\
 Status: ✅ COMPLETE AND READY

@@ -6,14 +6,6 @@ Your **Context Engineering Template** has been successfully created with everyth
 
 ---
 
-## 📍 Location
-
-```
-c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\
-```
-
----
-
 ## 📦 What's Included
 
 ### **21 Files Across 6 Folders**
@@ -51,7 +43,7 @@ c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\
 
 ### Step 1: Navigate to Template
 ```powershell
-cd "c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template"
+cd "path/to/context-engineering-template"
 ```
 
 ### Step 2: Install Dependencies
@@ -349,7 +341,7 @@ All components have been created and verified:
 
 ### Immediate (Now):
 ```bash
-cd "c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template"
+cd "path/to/context-engineering-template"
 npm install
 npm start
 ```
@@ -432,5 +424,5 @@ Then explore the documentation and examples to learn at your own pace.
 ---
 
 Created: December 30, 2025  
-Location: `c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\`  
+Location: `path/to/context-engineering-template`  
 Status: ✅ Complete and Verified

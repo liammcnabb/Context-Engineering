@@ -3,7 +3,7 @@
 ╚════════════════════════════════════════════════════════════════════════════╝
 
 📍 LOCATION
-   c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\
+   path/to/context-engineering-template\
 
 📁 FOLDER STRUCTURE
    ├── src/

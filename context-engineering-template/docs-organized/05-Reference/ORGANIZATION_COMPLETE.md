@@ -83,7 +83,7 @@ docs-organized/
 ## 🚀 How to Use This Organization
 
 ### Step 1: Open docs-organized/
-Navigate to: `c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\docs-organized\`
+Navigate to: `path/to/context-engineering-template\docs-organized\`
 
 ### Step 2: Choose Your Goal
 - New user? → **01-Getting-Started/**
@@ -248,7 +248,7 @@ The documentation is now **organized, easy to navigate, and human-friendly**.
 ## 📁 Folder Location
 
 ```
-c:\Users\Dingle\Documents\Spiderman Vilain\context-engineering-template\
+path/to/context-engineering-template\
   └── docs-organized/  ← Your organized docs are here!
       ├── 01-Getting-Started/
       ├── 02-Visual-Diagrams/
